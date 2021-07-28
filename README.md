@@ -8,13 +8,13 @@ Started the project
 
 [v1.0.1]
 
-Got driving working, and started with a basic screen gui that had clickable buttons
+> Got driving working, and started with a basic screen gui that had clickable buttons
 
-I wish i had pictures but it was really hard to take a picture of the screen so here is the basic layout
+> I wish i had pictures but it was really hard to take a picture of the screen so here is the basic layout
 
-Competition Button->(Red/Blue Side)->(auton1/auton2/auton3)
-Drive->Just Enables controls
-Auton->(Red/Blue Side)->(auton1/auton2/auton3)
+> Competition Button->(Red/Blue Side)->(auton1/auton2/auton3)
+> Drive->Just Enables controls
+> Auton->(Red/Blue Side)->(auton1/auton2/auton3)
 
 
 [v1.0.2]
