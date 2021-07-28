@@ -27,7 +27,11 @@ This will be a place were I write down what i did, maybe it wille be usefull in 
 
 > Made a way to control the robot's drivetrain from a [computer](https://github.com/DylanBruner/2021-2022-Vex-Robot/blob/tools/rc_ish/controller.py)
 
+[[v1.0.3](https://github.com/DylanBruner/2021-2022-Vex-Robot/tree/v1.0.3)]
 
+> Added a new class called screenlib_controller_menu to screenlib which added basic support for controller menus
+
+> Added a new class called simplemenu_controller_menu to simplemenulib which added page support to screenlib_controller_menu
 
 
 
