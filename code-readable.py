@@ -8,6 +8,8 @@ try:
         screenlib_screen_button = print
         screenlib_screen_text = print
         simplemenu_menu = print
+        screenlib_controller_menu = print
+        simplemenu_controller_menu = print
 
     except:
         print("Failed to create load_module, screenlib_screen_(menu,button,text)")#not sure why this would happen, but just in case
@@ -108,6 +110,9 @@ def run_auton():
     if selected_auton == "blahblahblah":
         pass
 
-MainBrainMenu()#Runs the brain menu
+
+
+
+#MainBrainMenu()#Runs the brain menu
 
 #brain.screen.draw_image_from_file("download.png",50,50)
