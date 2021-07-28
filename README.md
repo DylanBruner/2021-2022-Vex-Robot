@@ -2,7 +2,7 @@
 
 This will be a place were I write down what i did, maybe it wille be usefull in the notebook or somthing
 
-[v1.0.0](https://github.com/DylanBruner/2021-2022-Vex-Robot/tree/v1.0.0)
+[[v1.0.0](https://github.com/DylanBruner/2021-2022-Vex-Robot/tree/v1.0.0)]
 
 > Started the project
 
