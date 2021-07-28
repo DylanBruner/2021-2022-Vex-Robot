@@ -29,4 +29,4 @@ This will be a place were I write down what i did, maybe it wille be usefull in 
 
 
 
-*1 A module is base64 encoded code stored in modules/<modulename>.module, it's base64 encoded to make updating them easier
+*1 A module is base64 encoded code stored in sd-card/modules/<modulename>.module, it's base64 encoded to make updating them easier
