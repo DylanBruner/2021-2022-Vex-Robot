@@ -6,7 +6,7 @@ This will be a place were I write down what i did, maybe it wille be usefull in 
 
 > Started the project
 
-[v1.0.1](https://github.com/DylanBruner/2021-2022-Vex-Robot/tree/v1.0.1)
+[[v1.0.1](https://github.com/DylanBruner/2021-2022-Vex-Robot/tree/v1.0.1)]
 
 > Got driving working, and started with a basic screen gui that had clickable buttons
 
@@ -17,7 +17,7 @@ This will be a place were I write down what i did, maybe it wille be usefull in 
 > Auton->(Red/Blue Side)->(auton1/auton2/auton3)
 
 
-[v1.0.2](https://github.com/DylanBruner/2021-2022-Vex-Robot/tree/v1.0.2)
+[[v1.0.2](https://github.com/DylanBruner/2021-2022-Vex-Robot/tree/v1.0.2)]
 
 > Added module*1 loading from the sd card and ported the base64 library from windows to the brain
 
