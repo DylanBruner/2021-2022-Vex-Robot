@@ -13,7 +13,9 @@ This will be a place were I write down what i did, maybe it wille be usefull in 
 > I wish i had pictures but it was really hard to take a picture of the screen so here is the basic layout
 
 > Competition Button->(Red/Blue Side)->(auton1/auton2/auton3)
+> 
 > Drive->Just Enables controls
+> 
 > Auton->(Red/Blue Side)->(auton1/auton2/auton3)
 
 
