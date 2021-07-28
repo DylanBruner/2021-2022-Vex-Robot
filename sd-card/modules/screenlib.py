@@ -34,8 +34,7 @@ class screenlib_screen_button(object):
             brain.screen.set_fill_color(self.c)
             brain.screen.set_pen_color(Color.PURPLE)
             brain.screen.draw_rectangle(self.x,self.y,self.w,self.h,self.c)
-            brain.screen.draw_circle(self.x+self.w,self.y+self.h/2,self.w/l)
-            brain.screen.draw_circle(self.x,self.y+self.h/2,self.w/l)
+
 
             brain.screen.set_fill_color(self.c)
             brain.screen.set_cursor(self.tc,self.tr)
