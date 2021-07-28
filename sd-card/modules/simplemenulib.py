@@ -115,4 +115,30 @@ class simplemenu_menu(object):
     def run(self):
         return self.menu.mainloop()
 
+class simplemenu_controller_menu(object):
+    def __init__(self, pages):
+        self.itemsPerPage = 2
+        self.pages = pages
+        self.selectedItem = 0
+        self.selectedPage = 0
+    
+    def draw(self):
+        self.menu = screenlib_controller_menu()
+        for x in self.pages[self.selectedPage]:
+            self.menu.create_item(x)
+        
+        if self.selectedPage != len(self.pages) - 1:
+            self.menu.create_item("Next Page")
+    
+    def run(self):
+        op = self.menu.run()
+        if op.lower() == 'next page':
+            print("Next Page")
+            self.selectedPage += 1
+            self.draw()
+            return self.run()
+        
+        else:
+            return self.menu.run()
+
 print("[module/simplemenulib]: Loaded")
