@@ -1,4 +1,6 @@
 # 2021-2022-Vex-Robot
+This will be a place were I write down what i did, maybe it wille be usefull in the notebook or somthing
+
 
 [Ports]
 > HDriveMotor=1
@@ -9,7 +11,6 @@
 
 > StingerMotor=5
 
-This will be a place were I write down what i did, maybe it wille be usefull in the notebook or somthing
 
 [[v1.0.0](https://github.com/DylanBruner/2021-2022-Vex-Robot/tree/v1.0.0)]
 
@@ -41,6 +42,11 @@ This will be a place were I write down what i did, maybe it wille be usefull in 
 > Added a new class called screenlib_controller_menu to screenlib which added basic support for controller menus
 
 > Added a new class called simplemenu_controller_menu to simplemenulib which added page support to screenlib_controller_menu
+
+[[v1.0.3](https://github.com/DylanBruner/2021-2022-Vex-Robot/tree/v1.0.3)]
+
+
+[[v1.0.4](https://github.com/DylanBruner/2021-2022-Vex-Robot/tree/v1.0.4)]
 
 
 
