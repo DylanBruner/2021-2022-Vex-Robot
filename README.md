@@ -1,5 +1,11 @@
 # 2021-2022-Vex-Robot
 
+[Ports]
+HDriveMotor=1
+LeftMotor=2
+RightMotor=3
+StingerMotor=5
+
 This will be a place were I write down what i did, maybe it wille be usefull in the notebook or somthing
 
 [[v1.0.0](https://github.com/DylanBruner/2021-2022-Vex-Robot/tree/v1.0.0)]
