@@ -45,7 +45,7 @@ This will be a place were I write down what i did, maybe it wille be usefull in 
 
 [[v1.0.3](https://github.com/DylanBruner/2021-2022-Vex-Robot/tree/v1.0.3)]
 
-> Made a basic semi working controller auton selector
+> Added a semi working controller auton selector to screenlib and page support to easymenulib
 
 
 [[v1.0.4](https://github.com/DylanBruner/2021-2022-Vex-Robot/tree/v1.0.4)]
