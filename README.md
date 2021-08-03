@@ -45,9 +45,12 @@ This will be a place were I write down what i did, maybe it wille be usefull in 
 
 [[v1.0.3](https://github.com/DylanBruner/2021-2022-Vex-Robot/tree/v1.0.3)]
 
+> Made a basic semi working controller auton selector
+
 
 [[v1.0.4](https://github.com/DylanBruner/2021-2022-Vex-Robot/tree/v1.0.4)]
 
+> Added support for the Stinger Aka the thing that picks up the ring
 
 
 *1 A module is base64 encoded code stored in sd-card/modules/<modulename>.module, it's base64 encoded to make updating them easier
