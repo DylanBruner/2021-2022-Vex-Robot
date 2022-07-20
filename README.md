@@ -1,1 +1,3 @@
-For a semi non-poorly written log of the stuff I have done go [here](https://github.com/DylanBruner/2021-2022-Vex-Robot/tree/log)
+Some of the code i used in the 2021-2022 V5 Season
+<br>
+Most of the code doesn't work now and was poorly written
